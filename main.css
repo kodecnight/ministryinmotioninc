@@ -7432,9 +7432,9 @@ figcaption {
     padding-right: 10px;
   }
 
-  .btn-primary.hide-in-mbl {
+  /* .btn-primary.hide-in-mbl {
     display: none;
-  }
+  } */
 
   .yt-grid-colors {
     grid-column-gap: 16px;
