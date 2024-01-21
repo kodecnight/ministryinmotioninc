@@ -805,6 +805,10 @@ textarea.w-input, textarea.w-select {
     max-width: 728px;
   }
 
+  .container {
+    top: -35px
+  }
+
   .w-hidden-main {
     display: inherit !important;
   }
@@ -7042,7 +7046,7 @@ figcaption {
   }
 
   .container.navbar-container {
-    justify-content: space-between;
+    /* justify-content: space-between; */
   }
 
   .container.checkout {
