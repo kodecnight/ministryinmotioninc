@@ -4879,11 +4879,12 @@ figcaption {
 }
 
 .yt-cta-in-container {
-  background-color: var(--sea-green);
-  background-image: url("./image-resources/home/Blue-PNG-Clipart.png"), linear-gradient(to right, transparent, var(--dark-slate-grey-2));
+  /* background-color: var(--sea-green);
+  background-image: url("./image-resources/home/Blue-PNG-Clipart.png"), linear-gradient(to right, transparent, var(--dark-slate-grey-2)); */
   text-align: left;
-  background-position: 100% 100%, 0 0;
-  background-repeat: no-repeat, repeat;
+  /* background-position: 100% 100%, 0 0;
+  background-repeat: no-repeat, repeat; */
+  background-image: linear-gradient(to left bottom, #20cada, #00baf2, #38a4fe, #9185ef, #cb5bc2, #db48b0, #e72f9a, #f00081, #f50099, #f400b4, #ee00d2, #df15f2);
   background-size: contain, auto;
   border: 0 #000;
   border-radius: 14px;
@@ -5193,10 +5194,11 @@ figcaption {
 }
 
 .ty-header-background-section.subpages.about {
-  background-color: var(--sea-green-2);
+  /* background-color: var(--sea-green-2);
   background-image: url("./image-resources/home/Blue-Background-PNG-Isolated-File.png");
   background-position: 50% 0;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat; */
+  background-image: linear-gradient(to left bottom, #41e687, #00d5b3, #00c0d1, #00a8da, #008dcd, #4781cf, #7073c8, #9262b8, #ce57a3, #f5567d, #ff6d4f, #f29215);
   background-size: cover;
   padding-bottom: 0;
   padding-left: 5%;
@@ -7164,9 +7166,10 @@ figcaption {
   }
 
   .yt-cta-section {
-    background-image: linear-gradient(905deg, rgba(19, 83, 68, .67), var(--dark-slate-grey-2)), url("https://assets-global.website-files.com/63af12b85b5d51ae9ada1411/63bdbbf47586cc8046faa6c9_Graphics-9.png");
+    /* background-image: linear-gradient(905deg, rgba(19, 83, 68, .67), var(--dark-slate-grey-2)), url("https://assets-global.website-files.com/63af12b85b5d51ae9ada1411/63bdbbf47586cc8046faa6c9_Graphics-9.png");
     background-position: 0 0, 100% 100%;
-    background-repeat: repeat, no-repeat;
+    background-repeat: repeat, no-repeat; */
+    background-image: linear-gradient(to bottom, #3420da, #006eff, #0096f3, #00b4c5, #00cc9f, #31d17e, #5ed453, #8bd300, #afc500, #cbb500, #e1a400, #f29315);
     background-size: auto, contain;
   }
 
@@ -7238,9 +7241,9 @@ figcaption {
   }
 
   .yt-cta-in-container {
-    background-image: linear-gradient(to right, var(--dark-slate-grey-2) 19%, rgba(11, 58, 46, .68) 82%, transparent), url("https://assets-global.website-files.com/63af12b85b5d51ae9ada1411/63bdb9e5287ded68b61f9b27_Graphics-7.png");
+    /* background-image: linear-gradient(to right, var(--dark-slate-grey-2) 19%, rgba(11, 58, 46, .68) 82%, transparent), url("https://assets-global.website-files.com/63af12b85b5d51ae9ada1411/63bdb9e5287ded68b61f9b27_Graphics-7.png");
     background-position: 0 0, 100% 100%;
-    background-repeat: repeat, no-repeat;
+    background-repeat: repeat, no-repeat; */
     background-size: auto, contain;
   }
 
@@ -7588,9 +7591,9 @@ figcaption {
   }
 
   .yt-cta-in-container {
-    background-image: linear-gradient(1802deg, var(--dark-slate-grey-2) 4%, rgba(11, 58, 46, .73) 85%, transparent), url("https://assets-global.website-files.com/63af12b85b5d51ae9ada1411/63bdb9e5287ded68b61f9b27_Graphics-7.png");
+    /* background-image: linear-gradient(1802deg, var(--dark-slate-grey-2) 4%, rgba(11, 58, 46, .73) 85%, transparent), url("https://assets-global.website-files.com/63af12b85b5d51ae9ada1411/63bdb9e5287ded68b61f9b27_Graphics-7.png");
     background-position: 0 0, 100% 0;
-    background-repeat: repeat, no-repeat;
+    background-repeat: repeat, no-repeat; */
     background-size: auto, cover;
   }
 
@@ -8060,9 +8063,10 @@ figcaption {
   }
 
   .yt-cta-in-container {
-    background-image: linear-gradient(1802deg, transparent, rgba(11, 58, 46, .73) 15%, var(--dark-slate-grey-2) 96%), url("https://assets-global.website-files.com/63af12b85b5d51ae9ada1411/63bdb9e5287ded68b61f9b27_Graphics-7.png");
+    /* background-image: linear-gradient(1802deg, transparent, rgba(11, 58, 46, .73) 15%, var(--dark-slate-grey-2) 96%), url("https://assets-global.website-files.com/63af12b85b5d51ae9ada1411/63bdb9e5287ded68b61f9b27_Graphics-7.png");
     background-position: 0 0, 100% 0;
-    background-repeat: repeat, no-repeat;
+    background-repeat: repeat, no-repeat; */
+    background-image: linear-gradient(to left bottom, #ffffff, #e0dfef, #bec1e0, #9aa5d1, #708ac3, #5f7bbe, #506bb8, #415cb1, #5b50ac, #7241a3, #872c95, #980083);
     background-size: auto, cover;
     padding: 30px;
   }
