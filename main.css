@@ -3421,7 +3421,7 @@ h1 {
   color: var(--dark-slate-grey-2);
   margin-top: 0;
   margin-bottom: 24px;
-  font-family: Playfair Display, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-size: 65px;
   font-weight: 700;
   line-height: 120%;
@@ -3431,7 +3431,7 @@ h2 {
   color: var(--dark-slate-grey-2);
   margin-top: 0;
   margin-bottom: 24px;
-  font-family: Playfair Display, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-size: 55px;
   font-weight: 700;
   line-height: 110%;
@@ -3441,7 +3441,7 @@ h3 {
   color: var(--dark-slate-grey-2);
   margin-top: 0;
   margin-bottom: 20px;
-  font-family: Playfair Display, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-size: 45px;
   font-weight: 700;
   line-height: 115%;
@@ -3451,7 +3451,7 @@ h4 {
   color: var(--dark-slate-grey-2);
   margin-top: 0;
   margin-bottom: 18px;
-  font-family: Playfair Display, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-size: 35px;
   font-weight: 700;
   line-height: 120%;
@@ -3461,7 +3461,7 @@ h5 {
   color: var(--dark-slate-grey-2);
   margin-top: 0;
   margin-bottom: 16px;
-  font-family: Playfair Display, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-size: 25px;
   font-weight: 700;
   line-height: 110%;
@@ -3471,7 +3471,7 @@ h6 {
   color: var(--dark-slate-grey-2);
   margin-top: 0;
   margin-bottom: 14px;
-  font-family: Playfair Display, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-size: 15px;
   font-weight: 700;
   line-height: 115%;
@@ -3523,7 +3523,7 @@ blockquote {
   margin-top: 60px;
   margin-bottom: 60px;
   padding: 100px;
-  font-family: Playfair Display, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-size: 35px;
   line-height: 135%;
 }
@@ -4156,7 +4156,7 @@ figcaption {
   background-color: #fff;
   border-radius: 4px;
   padding: 4px 10px;
-  font-family: Playfair Display, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-size: 10px;
   display: inline-block;
   box-shadow: 1px 1px 10px rgba(23, 30, 48, .1);
@@ -4285,6 +4285,7 @@ figcaption {
   padding-bottom: 60px;
   padding-left: 60px;
   padding-right: 60px;
+  padding-top: 60px;
   position: relative;
   top: -100px;
   box-shadow: 0 6px 18px rgba(11, 58, 46, .1);
@@ -4581,7 +4582,7 @@ figcaption {
   color: #fff;
   padding-top: 2px;
   padding-bottom: 2px;
-  font-family: Playfair Display, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-size: 16px;
   font-weight: 600;
   line-height: 150%;
@@ -4650,7 +4651,7 @@ figcaption {
   background-clip: border-box;
   margin-top: 0;
   margin-right: 0;
-  font-family: Playfair Display, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.3em;
@@ -5058,7 +5059,7 @@ figcaption {
 .yt-features-plan {
   letter-spacing: -.02em;
   margin-bottom: 0;
-  font-family: Playfair Display, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-size: 16px;
   line-height: 170%;
 }
@@ -5332,7 +5333,7 @@ figcaption {
   text-align: center;
   padding-left: 40px;
   padding-right: 40px;
-  font-family: Playfair Display, sans-serif;
+  font-family: Montserrat, sans-serif;
 }
 
 .accordion-card {
@@ -5343,7 +5344,7 @@ figcaption {
   justify-content: space-between;
   align-items: flex-start;
   margin-bottom: 20px;
-  font-family: Playfair Display, sans-serif;
+  font-family: Montserrat, sans-serif;
   transition: box-shadow .4s, background-color .4s;
   display: flex;
 }
@@ -5366,7 +5367,7 @@ figcaption {
 .highlited-text {
   color: var(--dark-slate-grey-2);
   border: 1px #000;
-  font-family: Playfair Display, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-style: normal;
   font-weight: 900;
   text-decoration: none;
@@ -5482,7 +5483,7 @@ figcaption {
   color: var(--dark-slate-grey-2);
   text-transform: none;
   margin-bottom: 0;
-  font-family: Playfair Display, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-size: 22px;
   font-weight: 700;
   line-height: 32px;
@@ -5747,7 +5748,7 @@ figcaption {
 .yt-field-label {
   color: var(--dark-slate-grey-2);
   margin-bottom: .5rem;
-  font-family: Playfair Display, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-size: 14px;
   font-weight: 700;
   line-height: 26px;
@@ -6266,7 +6267,7 @@ figcaption {
 .product-title-sidebar {
   color: #fff;
   margin-bottom: 2px;
-  font-family: Playfair Display, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-size: 24px;
   font-weight: 500;
   line-height: 34px;
@@ -6420,7 +6421,7 @@ figcaption {
 .author-name {
   color: var(--mint-cream);
   margin-right: 6px;
-  font-family: Playfair Display, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-size: 16px;
   line-height: 150%;
   text-decoration: underline;
@@ -6802,7 +6803,7 @@ figcaption {
   .logo-name {
     color: #fff;
     margin-bottom: 0;
-    font-family: Playfair Display, sans-serif;
+    font-family: Montserrat, sans-serif;
     font-size: 24px;
     font-weight: 600;
   }
@@ -7844,7 +7845,24 @@ figcaption {
   }
 
   .nav-column.right.hide-in-mbl {
-    display: none;
+    /* display: none; */
+  }
+
+  .btn-primary{
+    margin-right: 10px;
+    padding: 10px 10px;
+  }
+
+  .button-name{
+    font-size: 12px;
+  }
+
+  .logo-name-sub {
+    font-size: 12px;
+  }
+
+  .logo-name {
+    font-size: 18px;
   }
 
   .btn-primary.sidebar {
