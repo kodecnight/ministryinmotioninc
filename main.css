@@ -3815,10 +3815,12 @@ figcaption {
   display: flex;
 }
 
-.nav-outer-container,
-.heading-container{
-  display: flex;
-  flex-direction: column;
+@media screen and (min-width: 1280px) {
+  .nav-outer-container,
+  .heading-container{
+    display: flex;
+    flex-direction: column;
+  }
 }
 
 .nav-container-one{
