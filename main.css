@@ -4017,10 +4017,11 @@ figcaption {
 .section.black {
   background-color: var(--dark-slate-grey-2);
   /* background-image: linear-gradient(rgba(11, 58, 46, .69), rgba(11, 58, 46, .69)), url("./image-resources/home/Blue-Background-PNG-Isolated-File.png"), url("./image-resources/home/Blue-Background-PNG-Isolated-File.png"); */
-  background-image: url("./image-resources/home/Blue-Background-PNG-Isolated-File.png");
-  background-position: 0 0, 100% 100%, 0 0;
+  /* background-image: url("./image-resources/home/Blue-Background-PNG-Isolated-File.png"); */
+  background-image: linear-gradient(to top, #f28815, #f35b37, #e52c54, #c7006e, #980083);
+  /* background-position: 0 0, 100% 100%, 0 0;
   background-repeat: repeat, no-repeat, no-repeat;
-  background-size: auto, 400px, 300px;
+  background-size: auto, 400px, 300px; */
 }
 
 .card {
