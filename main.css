@@ -1974,6 +1974,7 @@ textarea.w-input, textarea.w-select {
 
   .w-nav[data-collapse="medium"] .w-nav-button {
     display: block;
+    width: 50px;
   }
 }
 
