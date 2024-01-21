@@ -3788,7 +3788,7 @@ figcaption {
 .logo-header {
   width: 50px;
   height: 50px;
-  background-image: url("https://static.wixstatic.com/media/3db38b_b98a12bba71b46f585515d134d6ffcb3~mv2.png/v1/fill/w_140,h_140,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/mim_newlogo.png");
+  background-image: url("./image-resources/logo/Ministry\ in\ motion\ -\ white\ background\ \(1\).png");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;
@@ -5206,9 +5206,10 @@ figcaption {
 
 .ty-header-background-section.subpages.contact {
   background-color: var(--dark-slate-grey-2);
-  background-image: linear-gradient(rgba(11, 58, 46, .83), rgba(11, 58, 46, .83)), url("https://assets-global.website-files.com/63af12b85b5d51ae9ada1411/63bdb9e5287ded68b61f9b27_Graphics-7.png"), url("https://assets-global.website-files.com/63af12b85b5d51ae9ada1411/63bdbff9c2eb0d9738946488_Graphics-11.png");
+  /* background-image: linear-gradient(rgba(11, 58, 46, .83), rgba(11, 58, 46, .83)), url("https://assets-global.website-files.com/63af12b85b5d51ae9ada1411/63bdb9e5287ded68b61f9b27_Graphics-7.png"), url("https://assets-global.website-files.com/63af12b85b5d51ae9ada1411/63bdbff9c2eb0d9738946488_Graphics-11.png");
   background-position: 0 0, 100% 0, 0 0;
-  background-repeat: repeat, no-repeat, no-repeat;
+  background-repeat: repeat, no-repeat, no-repeat; */
+  background-image: linear-gradient(to right bottom, #f28815, #e66648, #c45363, #944d6c, #634760, #58425c, #4e3e58, #433953, #523865, #653273, #7d267e, #980083);
   background-size: auto, contain, contain;
   border: 1px #000;
   padding-bottom: 220px;
@@ -6757,7 +6758,7 @@ figcaption {
   }
 
   .logo-header {
-    background-image: url("https://static.wixstatic.com/media/3db38b_b98a12bba71b46f585515d134d6ffcb3~mv2.png/v1/fill/w_140,h_140,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/mim_newlogo.png");
+    background-image: url("./image-resources/logo/Ministry\ in\ motion\ -\ white\ background\ \(1\).png");
   }
 
   .container.navbar-container {

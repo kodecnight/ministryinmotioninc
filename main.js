@@ -41079,9 +41079,9 @@ Webflow.require('ix2').init({
 								"selectorGuids": ["e15df566-5ef1-f3c9-51c3-10491a7289ff"]
 							},
 							"globalSwatchId": "",
-							"rValue": 255,
-							"bValue": 255,
-							"gValue": 255,
+							"rValue": 55,
+							"bValue": 55,
+							"gValue": 55,
 							"aValue": 0
 						}
 					}]
@@ -41099,9 +41099,9 @@ Webflow.require('ix2').init({
 								"selectorGuids": ["e15df566-5ef1-f3c9-51c3-10491a7289ff"]
 							},
 							"globalSwatchId": "",
-							"rValue": 255,
-							"bValue": 255,
-							"gValue": 255,
+							"rValue": 55,
+							"bValue": 55,
+							"gValue": 55,
 							"aValue": 0.9
 						}
 					}]
