@@ -6978,6 +6978,12 @@ figcaption {
   }
 }
 
+@media screen and (min-width: 991px) {
+  .container.navbar-container {
+    justify-content: space-between;
+  }
+}
+
 @media screen and (max-width: 991px) {
   .nav-link {
     color: #0d072b;
@@ -7839,7 +7845,7 @@ figcaption {
   }
 
   .container.navbar-container {
-    justify-content: space-between;
+    /* justify-content: space-between; */
     padding-left: 0;
     padding-right: 0;
   }
