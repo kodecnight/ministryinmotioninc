@@ -3689,6 +3689,7 @@ figcaption {
   transition: all .4s;
   display: flex;
   position: relative;
+  margin-right: 20px;
 }
 
 .btn-primary:hover {
