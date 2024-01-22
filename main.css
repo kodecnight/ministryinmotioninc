@@ -4503,12 +4503,14 @@ figcaption {
 }
 
 .yt-cta-section {
-  background-color: var(--sea-green-2);
+  /* background-color: var(--sea-green-2);
   background-image: linear-gradient(905deg, transparent, var(--dark-slate-grey-2)), url("./image-resources/home/Blue-PNG-Clipart.png");
   color: #fff;
   background-position: 0 0, 100% 100%;
-  background-repeat: repeat, no-repeat;
+  background-repeat: repeat, no-repeat; */
+  background-image: linear-gradient(to left bottom, #beb239, #e09032, #f3684e, #f04479, #cc3ea9, #ad60d2, #7a7df0, #0094ff, #00b9ff, #00d7f6, #00edb4, #60fb5f);
   background-size: auto, contain;
+  color: #fff;
   padding-top: 100px;
   padding-bottom: 100px;
   font-size: 15px;
@@ -4708,7 +4710,7 @@ figcaption {
   line-height: 180%;
 }
 
-.yellowtree-section-center-title {
+.mimi-section-center-title {
   color: #3c4153;
   text-align: center;
   flex-wrap: wrap;
@@ -4721,7 +4723,7 @@ figcaption {
   overflow: hidden;
 }
 
-.yellowtree-section-center-title._60 {
+.mimi-section-center-title._60 {
   width: 60%;
   text-align: center;
   flex-direction: column;
@@ -5249,7 +5251,7 @@ figcaption {
   margin-bottom: 0;
 }
 
-.yellowtree-top-header-tittle {
+.mimi-top-header-tittle {
   color: #0d8359;
   letter-spacing: .08em;
   text-transform: uppercase;
@@ -5259,7 +5261,7 @@ figcaption {
   line-height: 1.8;
 }
 
-.yellowtree-top-header-tittle.white {
+.mimi-top-header-tittle.white {
   color: #fff;
 }
 
@@ -6873,7 +6875,7 @@ figcaption {
     display: flex;
   }
 
-  .yellowtree-section-center-title._60 {
+  .mimi-section-center-title._60 {
     width: 60%;
     flex-direction: column;
     align-items: center;
@@ -7215,11 +7217,11 @@ figcaption {
     line-height: 36px;
   }
 
-  .yellowtree-section-center-title {
+  .mimi-section-center-title {
     flex-wrap: wrap;
   }
 
-  .yellowtree-section-center-title._60 {
+  .mimi-section-center-title._60 {
     width: 80%;
   }
 
@@ -7570,7 +7572,7 @@ figcaption {
     line-height: 32px;
   }
 
-  .yellowtree-section-center-title._60 {
+  .mimi-section-center-title._60 {
     width: 100%;
   }
 
@@ -8034,7 +8036,7 @@ figcaption {
     background-size: cover;
   }
 
-  .yellowtree-section-center-title._60 {
+  .mimi-section-center-title._60 {
     width: 100%;
     padding-left: 10px;
     padding-right: 10px;
